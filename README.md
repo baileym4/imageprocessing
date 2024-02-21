@@ -27,7 +27,7 @@ The `test.py` file features a comprehensive set of test cases, combining those c
 
 To use Image Processing in your projects, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/baileym4/imageprocessing.git`
+1. Clone the repository: `git clone https://github.com/your-username/imageprocessing.git`
 2. Navigate to the project directory: `cd imageprocessing`
 3. Open the `lab.py` file to explore available functions for image processing.
 4. Check the `test.py` file for usage examples and test cases.
